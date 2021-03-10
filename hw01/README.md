@@ -3,9 +3,12 @@
 **Count how many lines are there in “data.dat”**
 
 + [stackoverflow](https://stackoverflow.com/questions/3137094/how-to-count-lines-in-a-document)
-
 + `wc -l data.dat`
 + ![image-20210310161219395](/home/eric/Desktop/learnCpp/hw01/hw01.assets/image-20210310161219395.png)
+
+![1](https://github.com/zsmShining/learnCpp/blob/master/hw01/hw01.assets/image-20210310161219395.png)
+
+
 
 **Count how many lines of those contain “dolor” or “dalor”?**
 
